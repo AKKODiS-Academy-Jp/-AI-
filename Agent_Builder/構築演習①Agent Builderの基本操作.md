@@ -1,10 +1,12 @@
-# Agent Builder 構築演習①
+# Agent Builder 構築演習
 #### ※ 画面は2026年6月現在のものです。
 
 この演習では、Agent Builder in Microsoft 365 Copilot を使用して
 自律型AIエージェントを構築する手法を学習します。
 
-## Agnet Builderについて
+## Agent Builderの基本操作
+
+### Agnet Builderについて
 Agent Builderは、Microsoft 365 画面のメニューに組み込まれています。  
 組織のアカウントでログインした状態でアクセスすると、利用可能なエージェントを参照できます。  
 AgentはMicrosoftが作成して提供しているものと、組織で作成・公開されているものがあります。  
